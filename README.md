@@ -1,5 +1,10 @@
 # R for Data Science(R4DS)
 
+## Folder Description 
+- **img:** Contains all of images related to control flow structure(flowchart&others)
+- **notebooks:** Contains all `R` notes(made with Jupyter Notebook)
+- **cheat_sheets:** Cheat Sheets for R Programming
+
 ## Resources & Reference
 - https://www.datamentor.io/r-programming/#tutorial
 - https://bolt.mph.ufl.edu/software/r-phc-6055/
