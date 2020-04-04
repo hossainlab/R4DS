@@ -5,6 +5,6 @@
 - https://bolt.mph.ufl.edu/software/r-phc-6055/
 - https://leanpub.com/rprogramming
 
-## ## Professors 
+## Professors 
 - [Roger D. Peng](http://www.biostat.jhsph.edu/~rpeng/)
 - [Rafael Irizarry](https://rafalab.github.io/)
